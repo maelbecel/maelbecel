@@ -1,6 +1,0 @@
-# maelbecel
-
-<!--START_SECTION:waka-->
-WAKATIME_API_KEY = 29e0f67a-3891-4526-8c85-d012653def2d
-GH_TOKEN = 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
-<!--END_SECTION:waka-->
