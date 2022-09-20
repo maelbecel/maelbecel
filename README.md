@@ -5,7 +5,7 @@
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=maelbecel&theme=cobalt)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Coding Activity
-![Coding Activity](https://wakatime.com/share/@maelbecel/4426789a-66e9-424a-a330-61f770d4f848.png)
+![Coding Activity](https://wakatime.com/share/@maelbecel/bfe09d24-8918-4e93-8f97-1ddca845f16d.png)
 
 ## Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maelbecel&layout=compact&langs_count=10&theme=cobalt)
