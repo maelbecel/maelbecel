@@ -22,11 +22,15 @@
 ### Frameworks
 <div style="display : flex">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/boostrap.svg" width=50>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/512px-Tailwind_CSS_Logo.svg.png?20230715030042" width=60>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/flask.svg" width=60>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/jquery.svg" width=60>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/nodejs.svg" width=60>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/vuejs.svg" width=60>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/frameworks/react.svg" width=60>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1039px-Vitejs-logo.svg.png" width=55>
+  <img src="https://static-00.iconduck.com/assets.00/fastify-icon-512x329-1ypuqoar.png" width=60>
+  <img src="https://static-00.iconduck.com/assets.00/next-js-icon-2048x2048-5dqjgeku.png" width=60>
 </div>
 
 ### Databases
@@ -58,4 +62,6 @@
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/git.svg" width=60>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/npm.svg" width=60>
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/json.svg" width=60>
+  <img src="https://cdn.worldvectorlogo.com/logos/expo-go-app.svg" width=50>
+  <img src="https://github.com/maelbecel/maelbecel/assets/91659507/7e3246b9-be07-4839-aafe-9d4edb89c034" width=60>
 </div>
