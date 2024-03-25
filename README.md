@@ -1,9 +1,10 @@
+## Stats
 <div style="display : flex">
  <img src="https://github-readme-stats.vercel.app/api?username=maelbecel&count_private=true&theme=cobalt&hide=stars" height=200>
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=maelbecel&layout=compact&langs_count=10&theme=cobalt" height=200>
 </div>
 
-# Competencies
+## Competencies
 ### Languages
 <div style="display : flex">
   <img src="https://github.com/yurijserrano/Github-Profile-Readme-Logos/blob/master/others/html.svg" height=60>
